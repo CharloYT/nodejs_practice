@@ -1,3 +1,6 @@
+BENSON CHARLES KELECHUKWU
+23/2710
+INFORMATION TECHNOLOGY (GROUP A)
 1. Classes
 In Node.js, classes serve as blueprints for creating custom objects. They function similarly to classes in other object-oriented languages, defining the properties and behaviors an object will have.
 
